@@ -1,4 +1,4 @@
-# CTS-285-0001
+# CTS-285-0001 Group 3
 
 **Group Members:**  
 - Haylee  
