@@ -14,19 +14,19 @@
 ---
 
 ## 🔍 What Worked  
-🟢 The board was the most helpful tool for visualizing the stories and understanding how they align with the project steps.
+- The board was the most helpful tool for visualizing the stories and understanding how they align with the project steps.
 
 ---
 
 ## ❌ What Did Not Work  
-🔴 Lack of communication and unclear understanding of tasks caused some setbacks.
+- Lack of communication and unclear understanding of tasks caused some setbacks.
 
 ---
 
 ## 🔄 What to Do Differently  
-💬 Improve communication between group members through Discord.  
-📂 Enhance GitHub sharing practices.  
-📋 Use the board with a different post structure to make it easier to follow.
+- Improve communication between group members through Discord.  
+- Enhance GitHub sharing practices.  
+- Use the board with a different post structure to make it easier to follow.
 
 ---
 
