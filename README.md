@@ -6,7 +6,6 @@
 - Teresa  
 - Aryan  
 - Justin  
-- Fakerson 
 
 **GitHub Link:**  
 🔗 [https://discord.gg/AzVfQqesNU](https://discord.gg/AzVfQqesNU)
