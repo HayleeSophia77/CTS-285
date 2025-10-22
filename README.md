@@ -1,12 +1,35 @@
-# CTS-285-0001
-Haylee
-Kaheel
-Teresa
-Aryan
-James
-github link:  https://discord.gg/AzVfQqesNU
+# CTS-285-0001 Group 3
 
--what worked: The board was the most helpful at being able to visualize the stories and how they work with the steps that needed to be done for the project.
--what did not work:  The lack of communication and understanding of what needed to be done.
--What to do differently:  Ability to communicate with other group members better through discord and ability to share with GitHub.  Use of board with a different post structure so it is easier to follow. 
--Next Steps – Test code and combine the different options.
+**Group Members:**  
+- Haylee  
+- Kaheel  
+- Teresa  
+- Aryan  
+- Justin  
+- James  
+
+**GitHub Link:**  
+🔗 [https://discord.gg/AzVfQqesNU](https://discord.gg/AzVfQqesNU)
+
+---
+
+## 🔍 What Worked  
+- The board was the most helpful tool for visualizing the stories and understanding how they align with the project steps.
+
+---
+
+## ❌ What Did Not Work  
+- Lack of communication and unclear understanding of tasks caused some setbacks.
+
+---
+
+## 🔄 What to Do Differently  
+- Improve communication between group members through Discord.  
+- Enhance GitHub sharing practices.  
+- Use the board with a different post structure to make it easier to follow.
+
+---
+
+## ▶️ Next Steps  
+- Test the code thoroughly.  
+- Combine the different options into one cohesive project.
