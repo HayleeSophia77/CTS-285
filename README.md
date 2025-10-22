@@ -6,7 +6,7 @@
 - Teresa  
 - Aryan  
 - Justin  
-- James  
+
 
 **GitHub Link:**  
 🔗 [https://discord.gg/AzVfQqesNU](https://discord.gg/AzVfQqesNU)
