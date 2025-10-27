@@ -2,7 +2,7 @@
 
 **Group Members:**  
 - Haylee  
-- Kahel  
+- Kaheel  
 - Teresa  
 - Aryan  
 - Justin  
