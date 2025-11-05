@@ -7,7 +7,7 @@
 - Aryan  
 - Justin  
 
-**GitHub Link:**  
+**Discord Link:**  
 🔗 [https://discord.gg/AzVfQqesNU](https://discord.gg/AzVfQqesNU)
 
 ---
