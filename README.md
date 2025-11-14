@@ -1,11 +1,11 @@
 # CTS-285-0001 Group 3
 
 **Group Members:**  
-- Haylee  
-- Kaheel  
-- Teresa  
-- Aryan  
-- Justin  
+* Haylee - [@HayleeSophia77](https://github.com/HayleeSophia77)
+* Kaheel - [@KaheelR](https://github.com/KaheelR)
+* Teresa - [@thearn1981](https://github.com/thearn1981)
+* Aryan - [@aryan-kandula](https://github.com/aryan-kandula)
+* Justin - [@jhlarsen](https://github.com/jhlarsen)
 
 **Discord Link:**  
 🔗 [https://discord.gg/AzVfQqesNU](https://discord.gg/AzVfQqesNU)
